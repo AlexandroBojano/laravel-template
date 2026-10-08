@@ -1,0 +1,41 @@
+:root {
+    /* Sidebar */
+    --sidebar-background: #252B36;
+    --sidebar-text: #FFFFFF;
+
+    /* Header */
+    --header-background: #171717;
+    --header-text: #FFFFFF;
+
+    /* Searchbar */
+    --searchbar-background: #FFFFFF;
+    --searchbar-text: #252B36;
+
+    /* User logged */
+    --user-logged-background: #FFFFFF;
+    --user-logged-text: #252B36;
+
+    /* Cards */
+    --cards-background: #F3F4F6;
+    --cards-text: #252B36;
+
+    /* Main */
+    --main-background: #F3F4F6;
+    --main-text: #252B36;
+
+    /* Footer */
+    --footer-background: #252B36;
+    --footer-text: #FFFFFF;
+
+    /* Elementos gerais */
+    --surface-background: #FFFFFF;
+    --text-primary: #252B36;
+    --text-secondary: #6B7280;
+
+    /* Botões */
+    --primary: #0F766E;
+    --primary-hover: #115E59;
+
+    /* Bordas */
+    --border: #E5E7EB;
+}
